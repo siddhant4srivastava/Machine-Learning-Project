@@ -21,4 +21,4 @@ This repository showcases various projects I have worked on, developed as part o
 - **Tools & Platforms:** Python, R, Tableau, SQL, Jupyter Notebook, RStudio.
 
 ## About Edvancer Eduventures
-Edvancer Eduventures provided me with comprehensive training in Artificial Intelligence and Machine Learning, covering topics such as Python, R, SQL, Tensorflow, Keras, and Tableau. These projects reflect the practical, hands-on approach emphasized during the learning experience.
+Edvancer Eduventures provided me with comprehensive training in Artificial Intelligence and Machine Learning, covering topics such as Python, Regression and Classification techniques. These projects reflect the practical, hands-on approach emphasized during the learning experience.
