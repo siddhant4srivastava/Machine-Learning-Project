@@ -9,7 +9,7 @@ This repository showcases various projects I have worked on, developed as part o
    - **Model Used:** Regression Techniques.
    - **Special Focus:** Handling missing data and feature importance analysis.
 
-### 7. **Caravan Insurance Policy Prediction**
+### 2. **Caravan Insurance Policy Prediction**
    - **Goal:** Predict customer interest in purchasing a caravan insurance policy.
    - **Model Used:** Logistic Regression.
    - **Dataset:** Socio-demographic and product usage data with over 5000 customer profiles.
